@@ -1,0 +1,110 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Automaton.h
+Token.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Token.h
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Database.h
+Relation.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Relation.h
+map
+-
+Graph.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Graph.h
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/DatalogProgram.h
+vector
+-
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Graph.h
+map
+-
+stack
+-
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Header.h
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Lexer.h
+vector
+-
+Automaton.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Automaton.h
+Token.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Token.h
+map
+-
+vector
+-
+iostream
+-
+sstream
+-
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Parameter.h
+Token.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Token.h
+Predicate.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Predicate.h
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Parser.h
+Token.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Token.h
+vector
+-
+Rule.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Rule.h
+Predicate.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Predicate.h
+DatalogProgram.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/DatalogProgram.h
+set
+-
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Predicate.h
+Parameter.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Parameter.h
+sstream
+-
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Relation.h
+Header.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Header.h
+Tuple.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Tuple.h
+iostream
+-
+cstring
+-
+set
+-
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Rule.h
+Predicate.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Predicate.h
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Token.h
+iostream
+-
+string
+-
+cctype
+-
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Tuple.h
+
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/main.cpp
+fstream
+-
+Lexer.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Lexer.h
+Parser.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Parser.h
+Database.h
+C:/Users/Rachel Perrier/Desktop/CS236/Lab-2/Database.h
+
